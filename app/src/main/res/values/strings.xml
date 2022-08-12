@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">DatabaseTest</string>
+    <string name="create_database">create database</string>
+    <string name="add_data">Add data</string>
+    <string name="delete_data">Delete data</string>
+    <string name="query_data">Query data</string>
 </resources>
